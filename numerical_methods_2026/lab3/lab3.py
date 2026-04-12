@@ -1,8 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import csv
-
-
 #2
 
 def form_matrix(x, m):
